@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.9666666666666667,
+  "macro_f1": 0.9665831244778612,
+  "test_samples": 30,
+  "train_samples": 120,
+  "labels": [
+    "Iris-setosa",
+    "Iris-versicolor",
+    "Iris-virginica"
+  ],
+  "confusion_matrix": [
+    [
+      10,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      1
+    ],
+    [
+      0,
+      0,
+      10
+    ]
+  ]
+}
