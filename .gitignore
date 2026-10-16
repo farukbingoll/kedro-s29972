@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+conf/local/*
+!conf/local/.gitkeep
+logs/
+.kedro/
+.ipynb_checkpoints/
