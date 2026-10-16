@@ -1,5 +1,4 @@
-kedro==1.0.0
-kedro-datasets==8.1.0
-pandas==2.2.3
 numpy==2.3.5
+pandas==2.2.3
 scikit-learn==1.8.0
+matplotlib>=3.9,<4

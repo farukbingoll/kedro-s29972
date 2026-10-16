@@ -1,9 +1,0 @@
-features:
-  - sepal_length
-  - sepal_width
-  - petal_length
-  - petal_width
-target: species
-test_size: 0.2
-random_seed: 42
-max_depth: 3
